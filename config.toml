@@ -1,0 +1,18 @@
+theme = "hyde"
+
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Grayson Ricketts"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/graysonricketts/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/graysonricketts/"}
+  ]
+
+[params]
+  description = " "
+  themeColor = "theme-base-0d"
+
+
+
