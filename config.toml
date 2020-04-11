@@ -1,6 +1,6 @@
 theme = "hyde"
 
-baseURL = "http://example.org/"
+baseURL = "https://graysonricketts.github.io/"
 languageCode = "en-us"
 title = "Grayson Ricketts"
 
