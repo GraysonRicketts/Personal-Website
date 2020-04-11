@@ -1,6 +1,6 @@
 ---
 title: "Personal Metrics"
-date: 2020-04-11T19:15:48-05:00
+date: 2020-04-11T17:35:48-05:00
 draft: false
 ---
 
