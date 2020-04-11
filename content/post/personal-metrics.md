@@ -1,7 +1,7 @@
 ---
 title: "Personal Metrics"
 date: 2020-04-05T19:15:48-05:00
-draft: true
+draft: false
 ---
 
 Is there something you can do that will make you twice as good at your job? What about more than twice as good? What about just better? There is an innate part of us that strives to improve. This is my story of trying to use metrics to improve. 
